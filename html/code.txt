@@ -1,0 +1,9 @@
+<u> : gạch chân
+<b> : in đậm
+<br> : xuống dòng
+<h> : đường kẻ ngang
+width: chiều rộng
+<table> :bảng
+<tr> : hàng ngang
+<td> : dữ liệu của bảng
+align : căn chỉnh
